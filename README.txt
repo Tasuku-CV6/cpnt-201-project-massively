@@ -7,14 +7,51 @@ The template will be user-friendly, ensuring accessibility on all devices, makin
 Attributions:
 
 Images
-- Killer Whale Photography: All images used in this project are sourced from [Unsplash](https://unsplash.com) and [Pexels](https://www.pexels.com), where photographers have provided high-resolution images under the Creative Commons Zero (CC0) license.
+- Killer Whale Photography: All images used in this project are sourced from: 
+- [The Gaurdian](https://www.theguardian.com/commentisfree/2018/feb/01/killer-whales-talk-brave-new-world-cross-species-chat-wikie-orca-mimic)
+- [Hakai](https://hakaimagazine.com/news/tanked-killer-whales-captivity/)
+- [Brighter](https://www.thebrighterside.news/post/killer-whales-might-be-getting-smarter-and-that-may-not-be-good-news/)
 
 Icons:
-- Blue Archive Abydos School logo, recreated in Figma Design
+- Abydos logo, created in Figma Design by Ethan Dam
 
 Research and Content
 - National Oceanic and Atmospheric Administration (NOAA): Information about killer whale behaviors and conservation efforts can be found on their official website [NOAA Fisheries](https://www.fisheries.noaa.gov/species/killer-whale).
 - Orca Research Trust: Insights on orca social structures and research can be accessed at [Orca Research Trust](https://www.orcaresearchtrust.org).
 
-License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Instructions on how to contribute to the project:
+1. Understand the Project
+- Read the Documentation: Familiarize yourself with the project's purpose, structure, and coding standards. Look for a README.md or CONTRIBUTING.md file.
+Set Up the Environment: Follow any setup instructions to get the project running on your local machine.
+
+2. Fork the Repository
+- Go to the project's GitHub (or other Git hosting service) page.
+Click the Fork button to create a personal copy of the repository under your account.
+
+3. Clone Your Fork
+- Open your terminal and clone your fork: "git clone https://github.com/your-username/project-name.git"
+Replace your-username and project-name with the appropriate values.
+
+4. Create a Branch
+- Navigate to the project directory: "cd project-name"
+
+- Create a new branch for your changes: "git checkout -b feature-branch-name"
+
+- Choose a descriptive name for your branch that reflects the changes you plan to make.
+
+5. Make Your Changes
+- Edit the code, add features, or fix bugs.
+- Test your changes thoroughly.
+
+6. Commit Your Changes
+- Stage your changes: "git add ."
+- Commit with a clear message: "git commit -m "Brief description of your changes"
+
+7. Push Your Changes
+- Push your branch to your fork: "git push origin feature-branch-name"
+
+8. Create a Pull Request
+- Go to the original repository on GitHub.
+- You should see a prompt to create a pull request for your recently pushed branch. Click on it.
+- Fill out the pull request template, providing a detailed description of your changes.
+- Submit the pull request.
